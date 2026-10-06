@@ -29,7 +29,7 @@
 
 Welcome to the definitive curated directory of **batch computing platforms**, **HPC workload managers**, **cloud batch processing services**, and **open-source job scheduling engines**. Modern high-performance computing, genomics, financial modeling, machine learning training, and big-data ETL pipelines depend on robust batch orchestration systems to manage compute clusters, optimize instance utilization, scale spot VMs, and schedule parallel tasks efficiently.
 
-Whether you are evaluating enterprise-grade managed platforms (such as *Azure Batch*, *AWS Batch*, *Google Cloud Batch*, *IBM Spectrum LSF*, and *Rescale*) or building self-hosted architectures with open-source frameworks (like *Apache Spark*, *Apache Airflow*, *Ray*, *Temporal*, *Kubeflow*, *Dask*, *Volcano*, *Nextflow*, *Kueue*, and *Slurm*), this guide details exact starting pricing, free tier/trial limits, company valuations, and star counts.
+Whether you are evaluating enterprise-grade managed platforms (such as *Azure Batch*, *AWS Batch*, *Google Cloud Batch*, *IBM Spectrum LSF*, and *Rescale*) or building self-hosted architectures with open-source frameworks (like *Apache Spark*, *Apache Airflow*, *Ray*, *Temporal*, *Kubeflow*, *Dask*, *Volcano*, *Nextflow*, *Kueue*, and *Slurm*), this guide details exact starting pricing, free tier/trial limits, company valuations, and Stars_Counts.
 
 ---
 
@@ -67,7 +67,7 @@ Whether you are evaluating enterprise-grade managed platforms (such as *Azure Ba
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Apache Spark](https://github.com/apache/spark)** [![Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)  
   **Unified engine for large-scale data processing**, Apache-2.0 licensed. ~49.5k+ stars. Distributed batch computing, streaming, SQL, and machine learning engine running on Kubernetes, YARN, and standalone clusters. ⚡
@@ -115,7 +115,7 @@ Whether you are evaluating enterprise-grade managed platforms (such as *Azure Ba
 Contributions are highly appreciated! Help keep this directory up to date by following these steps:
 
 1. 🍴 **Fork** this repository.
-2. 📝 **Add/edit** entries in `README.md` keeping formatting, tables, prices, and star badges intact.
+2. 📝 **Add/edit** entries in `README.md` keeping formatting, tables, prices, and Stars_Badges intact.
 3. 🔗 Include project title, official website/GitHub link, exact starting prices, free tier limits, company size, and license.
 4. 🚀 Open a **Pull Request** detailing your additions.
 
